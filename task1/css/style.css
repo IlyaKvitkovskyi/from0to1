@@ -1,0 +1,26 @@
+.name {
+  text-align: center;
+  font-size: 60px;
+}
+
+.profession {
+  text-align: center;
+}
+
+.avatar {
+  display: block;
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.text {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700px;
+  font-style: italic;
+}
+
+.link {
+  text-align: center;
+}
