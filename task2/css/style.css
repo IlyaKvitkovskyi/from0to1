@@ -1,0 +1,62 @@
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.title1 {
+  color: #000;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 30px auto;
+}
+
+.title2,
+.title3,
+.title4 {
+  color: #000;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 30px auto;
+}
+
+.text {
+  font-size: 18px;
+  text-align: justify;
+  margin-bottom: 25px;
+}
+
+.text4 {
+  font-style: italic;
+}
+
+.text6 {
+  margin-bottom: 90px;
+}
+
+.list {
+  padding-left: 50px;
+  margin-bottom: 50px;
+}
+
+.images {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.img-1 {
+  min-width: 800px;
+}
+
+.img-2 {
+  max-width: 900px;
+}
+
+.img-3 {
+  min-width: 900px;
+  min-height: 400px;
+}
